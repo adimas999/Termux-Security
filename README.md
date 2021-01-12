@@ -1,4 +1,4 @@
-# Termux-Security by MrDevils
+# Termux-Security
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
@@ -52,3 +52,4 @@ run the script
 or
 > python Termux.py
 ```
+**Note:** Saya cuma Membetulkan script punya orang. Jadi kalau author script nya beda sama nama github saya mohon maaf. 
